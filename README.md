@@ -1,2 +1,14 @@
-# 2026-security-cheatsheets
-A modern collection of security cheatsheets optimized for 2026 trends. Covers AI threat detection, cloud vulnerabilities, zero-trust models, and post-quantum crypto. Features practical tools, examples, and community updates for devs, pentesters, and security pros. Built fresh for today's threats—pull requests welcome!
+# 2026 Security Cheatsheets
+
+Up-to-date security cheatsheets focused on AI-based threats, cloud security, and zero-trust architectures.
+
+## Why This Repo?
+Most existing security repositories are outdated. This project focuses on **2025–2026 security trends** and real-world threats. Contributions are welcome!
+
+## Contents
+- [AI Security Cheatsheet](cheatsheets/ai-security.md)
+- [Cloud Security Cheatsheet](cheatsheets/cloud-security.md)
+
+## Contributing
+Feel free to open a pull request.  
+License: MIT
