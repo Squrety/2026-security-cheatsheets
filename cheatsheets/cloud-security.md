@@ -1,7 +1,7 @@
 # Cloud Security Cheatsheet Örneği (2026 Güncel)
 
 Bu cheatsheet, bulut güvenliği için temel best practice'leri, yaygın hataları ve araçları özetlemekte. AWS, Azure ve GCP gibi popüler sağlayıcılara odaklanarak hazırlandı.
-İlham kaynakları: OWASP Secure Cloud Architecture Cheat Sheet, Wiz Advanced Cloud Security Best Practices ve SecPod Cloud Security Cheat Sheet. Kendi repo'na eklemek için Markdown formatında kullanabilirsin – güncelle ve genişlet!
+İlham kaynakları: OWASP Secure Cloud Architecture Cheat Sheet, Wiz Advanced Cloud Security Best Practices ve SecPod Cloud Security Cheat Sheet.
 
 ## Giriş
 Bulut güvenliği, shared responsibility model'e dayanır: Sağlayıcı altyapıyı korur, biz ise konfigürasyon, erişim ve uygulamaları yönetiriz. Ana odak, risk analizi, tehdit modelleme ve attack surface minimizasyonudur. Yüksek riskli uygulamalarda zero-trust uygulamak en iyisidir.
