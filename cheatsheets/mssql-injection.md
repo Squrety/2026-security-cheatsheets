@@ -142,7 +142,7 @@ SELECT * FROM logins WHERE username LIKE 'admin%'
 | | II | Bitwise OR   . |
 | | =, <=, >=, >, <, <>, !=, IS, LIKE, REGEXP, IN, MEMBER OF | Karşılaştırma ve üyelik operatörleri. = karşılaştırmada aynı öncelikte. |
 | | BETWEEN, CASE, WHEN, THEN, ELSE | BETWEEN aralık kontrolü; CASE ifadesi bileşenleri. |
-| | NOT | Mantıksal negasyon. |
+| | NOT | Mantıksal olumsuzluk. |
 | | AND, && | Mantıksal AND. |
 | | XOR | Mantıksal XOR. |
 | | OR, II | Mantıksal OR. || varsayılan OR; PIPES_AS_CONCAT modunda string birleştirme olur. |
